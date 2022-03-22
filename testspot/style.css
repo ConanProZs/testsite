@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(230,11,204);
+
+}
+
+.beluga1{
+    border: none;
+    background-color: rgb(233, 198, 0);
+    width: 140px;
+    height: 80px;
+    transition: 0.3s;
+}
+.beluga1:hover{
+    background-color: rgb(163, 139, 0);
+    font-size: large;
+    width: 145px;
+    height: 85px;
+}
+
+.mathB{
+    border: none;
+    background-color: rgb(3,250,165);
+    width: 140px;
+    height: 80px;
+    transition: 0.3s;
+}
+.mathB:hover{
+    background-color: rgb(0, 177, 115);
+    font-size: large;
+    width: 145px;
+    height: 85px;
+}
